@@ -1,3 +1,8 @@
 # zunnihuojia
-[ccb](./ccb)<br>
-[CCB Words](./ccb-words.md)
+- 🧊😝
+- 🫨🤤🫨🤤🫨🤤
+
+## CCB Works
+- [CCB](./ccb)
+- [CCB Words](./ccb-words.md)
+- [CCB.CPP](./ccb.cpp)
