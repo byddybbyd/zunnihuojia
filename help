@@ -1,0 +1,3 @@
+How can I exit vim without `esc`?
+I'm stucking in my codespace which running on mobile browser!
+:q!:q!:q!
