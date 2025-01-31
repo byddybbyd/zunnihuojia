@@ -1,8 +1,9 @@
 #include <iostream>
+#include <unistd.h>
 using namespace std;
 
 int main() {
-	cout << "电棍笑传之踩踩背" << endl;sleep(1);
+	cout << "豌豆笑传之踩踩背" << endl;sleep(1);
     cout << "~~>";sleep(0.1);
     cout << "~~>" << endl;sleep(1);
     cout << "（呼噜）";sleep(0.25);
