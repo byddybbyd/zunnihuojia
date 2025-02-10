@@ -8,3 +8,4 @@
 - [踩踩背档案馆](./ccb-archive.md)
 - [踩踩背短语](./ccb-words.md)
 - [踩踩背古诗词](./ccb-poems.md)
+- [《踩踩背序》by DeepSeek](./ccbx.md)
