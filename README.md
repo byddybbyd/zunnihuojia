@@ -4,7 +4,8 @@
 ## 踩踩背作品
 - [踩踩背](./ccb)
 - [CCB.CPP](./ccb.cpp)  
-[*运行在 Ubuntu 20.04*](./IMG_0738.jpeg)
+[*运行在 Ubuntu 20.04*](./IMG_0738.jpeg)  
+[*DeepSeek版*](./ccb-deepseek.cpp)
 - [踩踩背档案馆](./ccb-archive.md)
 - [踩踩背短语](./ccb-words.md)
 - [踩踩背古诗词](./ccb-poems.md)
