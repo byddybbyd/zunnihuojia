@@ -1,6 +1,6 @@
 # 踩踩背
 ![Stars](https://img.shields.io/github/stars/byddybbyd/zunnihuojia?style=flat)
-[![License: GPLv3](https://img.shields.io/License-GPLv3-green)](https://github.com/byddybbyd/zunnihuojia/blob/main/LICENSE)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-green)](https://github.com/byddybbyd/zunnihuojia/blob/main/LICENSE)
 > 老爷爷，我给你踩背来喽！
 
 ## 重温经典
