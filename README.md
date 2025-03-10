@@ -10,7 +10,7 @@
 [![电棍笑传之踩踩背](https://img.shields.io/badge/%E7%94%B5%E6%A3%8D%E7%AC%91%E4%BC%A0%E4%B9%8B%E8%B8%A9%E8%B8%A9%E8%83%8C-blue)](https://bilibili.com/video/BV1EV4y1b7Jz)
 ## 踩踩背大全
 - [踩踩背](./ccb)
-- [CCB.CPP](./ccb.cpp)
+- [CCB.CPP](./ccb.cpp)  
 ![运行在 Ubuntu 20.04](./IMG_0738.jpeg)  
 [*DeepSeek版*](./ccb-deepseek.cpp)
 - [踩踩背档案馆](./ccb-archive.md)
