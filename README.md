@@ -13,7 +13,6 @@
 ## 踩踩背大全
 - [踩踩背](./docs/ccb)
 - [CCB.CPP](./ccb.cpp)  
-![运行在 Ubuntu 20.04](./img/ccb-cpp-testing.jpeg)  
 [*DeepSeek版*](./ccb-deepseek.cpp)
 - [踩踩背档案馆](./docs/ccb-archive.md)
 - [踩踩背短语](./docs/ccb-words.md)
