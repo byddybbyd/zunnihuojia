@@ -1,6 +1,4 @@
-# 踩踩背
-![Stars](https://img.shields.io/github/stars/byddybbyd/zunnihuojia?style=flat)
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-green)](https://github.com/byddybbyd/zunnihuojia/blob/main/LICENSE)
+<h1 align="center">踩踩背</h1>
 
 > 老爷爷，我给你踩背来喽！
 
