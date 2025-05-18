@@ -7,12 +7,3 @@
 
 ## 重温经典
 [![电棍笑传之踩踩背](https://img.shields.io/badge/%E7%94%B5%E6%A3%8D%E7%AC%91%E4%BC%A0%E4%B9%8B%E8%B8%A9%E8%B8%A9%E8%83%8C-blue)](./img/ccb.mp4)
-
-## 踩踩背大全
-- [踩踩背](./docs/ccb)
-- [CCB.CPP](./ccb.cpp)  
-[*DeepSeek版*](./ccb-deepseek.cpp)
-- [踩踩背档案馆](./docs/ccb-archive.md)
-- [踩踩背短语](./docs/ccb-words.md)
-- [踩踩背古诗词](./docs/ccb-poems.md)
-- [《踩踩背序》by DeepSeek](./docs/ccbx.md)
